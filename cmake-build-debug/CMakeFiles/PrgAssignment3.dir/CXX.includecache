@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/weston/Desktop/CS3050/PrgAssignment3/main.cpp
+iostream
+-
+string
+-
+stdio.h
+-
+sstream
+-
+stdlib.h
+-
+unordered_map
+-
+list
+-
+string.h
+-
+
