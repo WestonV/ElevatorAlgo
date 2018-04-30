@@ -6,21 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/home/weston/Desktop/CS3050/PrgAssignment3/main.cpp
+/Users/westonmac/Desktop/ElevatorAlgo/main.cpp
 iostream
 -
-string
+cstdlib
 -
-stdio.h
+vector
 -
-sstream
+queue
 -
-stdlib.h
--
-unordered_map
--
-list
--
-string.h
+cstdio
 -
 
