@@ -1,7 +1,7 @@
-#CS3050 Advanced Algorithms
-##Elevator Trouble
-####Weston Verhulst
-#####C++ Program
+# CS3050 Advanced Algorithms
+## Elevator Trouble
+#### Weston Verhulst
+##### C++ Program
 ------
 Requirements to run program
 + Cmake
