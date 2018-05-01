@@ -1,7 +1,6 @@
 # CS3050 Advanced Algorithms
 ## Elevator Trouble
 #### Weston Verhulst
-##### C++ Program
 ------
 Requirements to run program
 + Cmake
@@ -14,7 +13,7 @@ Steps to run program
 3. Go into directory _build_ `cd build`
 4. Type `cmake ..`
 5. `make`
-6. And finally to run the program type `./PrgAssignment3`
+6. And finally to run the program type `./ElevatorAlgo`
 
 
 ###Thank You
